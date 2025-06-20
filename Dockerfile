@@ -5,4 +5,4 @@ FROM n8nio/n8n:latest
 EXPOSE 5678
 
 # Comando para iniciar n8n cuando se ejecute el contenedor
-CMD ["n8n"]
+CMD ["start"]
